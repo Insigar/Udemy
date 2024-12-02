@@ -1,4 +1,4 @@
-package ControlFlow;
+package ControlFlow.Exercises;
 
 public class NumberInWord
 {
