@@ -1,4 +1,4 @@
-package ControlFlow;
+package controlFlow;
 
 public class ChallengeSum35
 {

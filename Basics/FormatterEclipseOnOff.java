@@ -1,4 +1,4 @@
-package Basics;
+package basics;
 
 // Eclipse formatter off because we're using the eclipse style.xml
 public class FormatterEclipseOnOff

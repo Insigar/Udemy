@@ -1,4 +1,4 @@
-package ControlFlow.Exercises;
+package controlFlow.exercises;
 
 public class FactorPrinter
 {

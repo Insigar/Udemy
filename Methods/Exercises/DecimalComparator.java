@@ -1,4 +1,4 @@
-package Methods.Exercises;
+package methods.exercises;
 
 public class DecimalComparator
 {

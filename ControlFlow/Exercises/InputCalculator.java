@@ -1,4 +1,4 @@
-package ControlFlow.Exercises;
+package controlFlow.exercises;
 
 import java.util.Scanner;
 
@@ -32,5 +32,6 @@ public class InputCalculator
 				break;
 			}
 		}
+		input.close();
 	}
 }
